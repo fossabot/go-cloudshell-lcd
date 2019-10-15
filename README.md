@@ -101,3 +101,8 @@ outputs:
 ### Screenshot
 
 ![alt text](https://raw.githubusercontent.com/fuzzy/go-cloudshell-lcd/master/go-cloudshell-lcd.png "Screenshot")
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Ffuzzy%2Fgo-cloudshell-lcd.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Ffuzzy%2Fgo-cloudshell-lcd?ref=badge_shield)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Ffuzzy%2Fgo-cloudshell-lcd.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Ffuzzy%2Fgo-cloudshell-lcd?ref=badge_large)
